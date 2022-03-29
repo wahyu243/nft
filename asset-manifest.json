@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nft/static/css/main.214d2fa8.chunk.css",
-    "main.js": "/nft/static/js/main.2a0cce6f.chunk.js",
-    "main.js.map": "/nft/static/js/main.2a0cce6f.chunk.js.map",
-    "runtime-main.js": "/nft/static/js/runtime-main.fab16cc0.js",
-    "runtime-main.js.map": "/nft/static/js/runtime-main.fab16cc0.js.map",
-    "static/js/2.f3c835aa.chunk.js": "/nft/static/js/2.f3c835aa.chunk.js",
-    "static/js/2.f3c835aa.chunk.js.map": "/nft/static/js/2.f3c835aa.chunk.js.map",
+    "main.js": "/nft/static/js/main.e1a62e67.chunk.js",
+    "main.js.map": "/nft/static/js/main.e1a62e67.chunk.js.map",
+    "runtime-main.js": "/nft/static/js/runtime-main.39d9ebe0.js",
+    "runtime-main.js.map": "/nft/static/js/runtime-main.39d9ebe0.js.map",
+    "static/js/2.6c2393d8.chunk.js": "/nft/static/js/2.6c2393d8.chunk.js",
+    "static/js/2.6c2393d8.chunk.js.map": "/nft/static/js/2.6c2393d8.chunk.js.map",
     "index.html": "/nft/index.html",
     "static/css/main.214d2fa8.chunk.css.map": "/nft/static/css/main.214d2fa8.chunk.css.map",
-    "static/js/2.f3c835aa.chunk.js.LICENSE.txt": "/nft/static/js/2.f3c835aa.chunk.js.LICENSE.txt",
+    "static/js/2.6c2393d8.chunk.js.LICENSE.txt": "/nft/static/js/2.6c2393d8.chunk.js.LICENSE.txt",
     "static/media/Back.8af6b2fe.svg": "/nft/static/media/Back.8af6b2fe.svg",
     "static/media/Covalent-Background_5.cc7bc02b.jpg": "/nft/static/media/Covalent-Background_5.cc7bc02b.jpg",
     "static/media/App.css": "/nft/static/media/alert.6e5425f9.svg",
@@ -18,9 +18,9 @@
     "static/media/logo.00ecc9d5.svg": "/nft/static/media/logo.00ecc9d5.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fab16cc0.js",
-    "static/js/2.f3c835aa.chunk.js",
+    "static/js/runtime-main.39d9ebe0.js",
+    "static/js/2.6c2393d8.chunk.js",
     "static/css/main.214d2fa8.chunk.css",
-    "static/js/main.2a0cce6f.chunk.js"
+    "static/js/main.e1a62e67.chunk.js"
   ]
 }
